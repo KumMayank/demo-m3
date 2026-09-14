@@ -1,3 +1,4 @@
+new chnages
 Just 
 Hello Git
 second line
