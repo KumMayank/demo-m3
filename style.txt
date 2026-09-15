@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 HI, Buddy
 Jiii
 
 hhh
 
+=======
+New chnages
+Just checking
+hello main fff
+>>>>>>> feature
